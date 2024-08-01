@@ -1,18 +1,21 @@
-# Halo semua! 
+# 🌟 Halo Semua! 🌟
 
-Perkenalkan nama saya **Ahmad zarkasih**.\
+Perkenalkan, nama saya **Ahmad Zarkasih**.
 
-Saya seorang **Curriculum Developer** di [Dicoding](https://www.dicoding.com/).\
+Saya adalah lulusan **Teknologi Informasi** yang sedang mendalami **Mobile & Web Development**. 🚀
 
-Saya bertanggung jawab pada kualitas materi iOS dengan dibekali [sertifikasi dari University of Toronto](https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M).\
+Sebagai seorang yang pekerja keras dan selalu bersemangat untuk belajar hal baru, memulai karir sebagai web dan mobile developer adalah **tantangan** yang sangat berarti bagi saya. Saya berkomitmen untuk mengembangkan website dan aplikasi yang **profesional** dan sesuai dengan kebutuhan **industri**.
 
-Saya juga memiliki gelar [Google Associate Android Developer](https://www.credential.net/h5deoi5h) sejak 2019.\
+Dengan pengalaman magang dan pelatihan, saya terus berusaha untuk meningkatkan **skill dan kemampuan** saya. 💪
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/gilang-adhan/)ku ya.
+Jika kamu tertarik untuk berkenalan lebih lanjut, silakan ikuti akun [LinkedIn](https://www.linkedin.com/in/ahmad-zarkasih-77ba5a250) saya.
 
 <p align="left">
 <a href="https://github.com/ahmadzarkasih01">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ahmadzarkasih01&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahmadzarkasih01&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ahmadzarkasih01&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahmadzarkasih01&layout=compact&langs_count=8&theme=algolia" />
 </a>
 </p>
+
+---
+
